@@ -150,8 +150,10 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
+---
 DNS (Domain Name System) helps find the IP addresses associated with a domain name. It translates human-readable domain names into IP addresses that the internet use to locate servers.
 To connect EpicReads to its server at 52.172.142.222:3000, an A record (Address Record) should be created. An A record connects a domain name to an IPv4 address as in the case of EpicReads IP address.
+
 ---
 
 # 💻 Task 5: Visual Studio Code Setup (Hands-on)
@@ -241,7 +243,8 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 
 Paste your LinkedIn post URL here:
 
-```https://lnkd.in/p/eVn-4yzm
+```
+https://lnkd.in/p/eVn-4yzm
 ```
 
 ---
